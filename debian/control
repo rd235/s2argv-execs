@@ -1,7 +1,7 @@
 Source: libexecs
 Priority: optional
 Maintainer: Giulia Cantini <giuliacantini3@gmail.com>
-Build-Depends: debhelper (>= 9), autotools-dev, dh-autoreconf
+Build-Depends: debhelper (>= 9.20160114), autotools-dev, dh-autoreconf
 Standards-Version: 4.0.0
 Section: libs
 Vcs-Git: https://github.com/rd235/s2argv-execs
