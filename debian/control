@@ -5,6 +5,7 @@ Build-Depends: debhelper (>= 9.20160114), autotools-dev, dh-autoreconf
 Standards-Version: 4.0.0
 Section: libs
 Vcs-Git: https://github.com/rd235/s2argv-execs
+Vcs-Browser: https://github.com/rd235/s2argv-execs
 
 Package: libexecs-dev
 Section: libdevel
