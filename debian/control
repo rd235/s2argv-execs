@@ -4,7 +4,7 @@ Maintainer: Giulia Cantini <giuliacantini3@gmail.com>
 Build-Depends: debhelper-compat (= 12), autotools-dev
 Standards-Version: 4.0.0
 Section: libs
-Vcs-Git: https://github.com/rd235/s2argv-execs
+Vcs-Git: https://github.com/rd235/s2argv-execs.git
 Vcs-Browser: https://github.com/rd235/s2argv-execs
 
 Package: libexecs-dev
