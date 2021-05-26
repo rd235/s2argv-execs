@@ -1,7 +1,7 @@
 s2argv-execs
 ============
 
-**This REPO is outdated, s2argv-execs moved to [https://github.com/virtualsquare/s2argv-execs](https://github.com/virtualsquare/s2argv-execs). Please use the new location. **
+** This REPO is outdated, s2argv-execs moved to [https://github.com/virtualsquare/s2argv-execs](https://github.com/virtualsquare/s2argv-execs). Please use the new location. **
 
 s2argv converts a command string into an argv array for execv, execvp, execvpe. 
 execs is like execv taking a string instead of an argv.
